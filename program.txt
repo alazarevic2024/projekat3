@@ -1,2 +1,5 @@
 Testiram funkcionalnost za logovanje
 testiram unos emaila
+
+Ovo radim na test grani i testiram logovanje - vezba
+Dodato testiranje i passworda 
